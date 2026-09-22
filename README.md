@@ -1,0 +1,2 @@
+# Installation-Wordpress
+with lamp
