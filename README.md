@@ -256,8 +256,7 @@ Ikuti instruksi di terminal. Certbot akan otomatis mengonfigurasi ulang Nginx un
 
 ---
 
-## Ringkasan Perintah (Quick Reference)
-
+## Ringkasan Perintah
 ```bash
 # Update sistem
 sudo apt update && sudo apt upgrade -y
