@@ -1,4 +1,3 @@
-# Installation-Wordpress
 # Install WordPress di Ubuntu (AWS EC2) — LEMP Stack
 
 Panduan lengkap instalasi WordPress dari nol di instance Ubuntu EC2, menggunakan **Nginx + MySQL + PHP** (LEMP stack).
